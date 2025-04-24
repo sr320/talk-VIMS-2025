@@ -3,7 +3,7 @@
 ## Repository for presentation: Shellfish environmental memory - implications and opportunities. 
 April 24, 2025
 
-Uselinks related to Resazurin Assay
+**Uselinks related to Resazurin Assay**
 
 - [Canonical Protocol via Handbook](https://robertslab.github.io/resources/protocols/resazurin-assay/)
 - [Example protocol](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Resazurin-Metabolic-Assays-Protocol-for-Steven-VIMS-trip/)
@@ -11,7 +11,7 @@ Uselinks related to Resazurin Assay
     - ["Live Activity"](https://genefish.wordpress.com/?s=resazurin)
 
 
-
+---
 
 See Lab Website for more info: <https://faculty.washington.edu/sr320/>
 
