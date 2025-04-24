@@ -18,7 +18,7 @@ See Lab Website for more info: <https://faculty.washington.edu/sr320/>
 - [Lab Notebooks](https://faculty.washington.edu/sr320/publications.html#notebooks)
 - [Lab Handbook](https://robertslab.github.io/resources/)
 - [Course: Epigenetic Phenomena Connecting Climate Change and Coastal Marine Species](https://sr320.github.io/course-ASI-2024/modules/22-supp.html)
-- [sormi.science](sormi.science)
+- [sormi.science](https://gannet.fish.washington.edu/sormi/)
 
 
 
